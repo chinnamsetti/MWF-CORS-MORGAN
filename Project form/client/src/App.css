@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+table,th,td{
+border:1.5px solid black;
+border-collapse: collapse;
+}
+table{
+  background-color:rgb(207, 244, 232);
+}
+form{
+   display: inline-block;
+   background-color:skyblue;
+}
+form label{
+  display: inline-block;
+  width: 120px;
+  padding:5px;
+}
+form select{
+  width: 100px;
+}
